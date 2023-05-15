@@ -1,0 +1,29 @@
+.pat{
+    font-family: 'MonteCarlo', cursive;
+    font-size: 50px;
+    background-color:rgb(222, 138, 222);
+    width: 300px;
+    border-radius: 15px 50px;
+}
+
+#body{
+    background-color:rgb(243, 168, 243);
+}
+
+#camera{
+    width: 300px;
+    height: 300px;
+    border-style: dotted;
+}
+
+#result{
+    width: 300px;
+    height: 300px;
+    border-style: dotted;
+}
+
+label{
+    background-color: white;
+    border-radius:5px;
+    font-size: medium;
+}
